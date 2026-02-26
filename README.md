@@ -3,6 +3,13 @@
 ## Overview
 This project implements a carbon tax policy modelling framework in Python, converted from an Excel-based economic model.
 
+## Key Contributions
+
+- Fully migrated an Excel-based carbon tax support model to a modular Python pipeline.
+- Implemented reproducible data loading, feature engineering, and statistical testing workflow.
+- Automated subgroup analysis and treatment effect estimation using vectorised operations.
+- Produced publication-style summary tables and visualisations for policy interpretation.
+
 ## Objectives
 - Replicate Excel logic in Python
 - Improve scalability and reproducibility
